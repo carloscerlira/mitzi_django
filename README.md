@@ -7,4 +7,4 @@ source .venv/bin/activate (linux)
 pip install -r requirements.txt  
 heroku local --port 5001 -f Procfile.windows (windows)  
 heroku local --port 5001 (linux)  
-
+http://localhost:5001 
