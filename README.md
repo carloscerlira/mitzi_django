@@ -1,3 +1,4 @@
+# Run Locally
 git clone https://github.com/carloscerlira/mitzi_django.git  
 cd mitzi_django  
 python3 -m venv --upgrade-deps .venv  
